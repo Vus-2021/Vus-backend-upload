@@ -1,0 +1,4 @@
+.env
+s3.json
+.serverless/
+node_modules/
